@@ -1,0 +1,135 @@
+.standardbutton {
+  background-color: #04AA6D; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.examplecodediv {
+  background-color: Gainsboro;
+  font-size: 20px;
+  margin: 50px;
+  border: 2px solid black;
+  padding: 20px;
+}
+
+.downloadsection {
+  background: hsla(18, 76%, 85%, 1);
+  background: linear-gradient(225deg, hsla(18, 76%, 85%, 1) 0%, hsla(203, 69%, 84%, 1) 100%);
+  background: -moz-linear-gradient(225deg, hsla(18, 76%, 85%, 1) 0%, hsla(203, 69%, 84%, 1) 100%);
+  background: -webkit-linear-gradient(225deg, hsla(18, 76%, 85%, 1) 0%, hsla(203, 69%, 84%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#f6cfbe", endColorstr="#b9dcf2", GradientType=1 );
+  padding: 50px;
+}
+
+.example {
+  background: hsla(0, 0%, 100%, 1);
+  background: linear-gradient(225deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 0%, 84%, 1) 50%, hsla(0, 0%, 84%, 1) 70%, hsla(0, 0%, 85%, 1) 77%, hsla(0, 0%, 100%, 1) 100%);
+  background: -moz-linear-gradient(225deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 0%, 84%, 1) 50%, hsla(0, 0%, 84%, 1) 70%, hsla(0, 0%, 85%, 1) 77%, hsla(0, 0%, 100%, 1) 100%);
+  background: -webkit-linear-gradient(225deg, hsla(0, 0%, 100%, 1) 0%, hsla(0, 0%, 84%, 1) 50%, hsla(0, 0%, 84%, 1) 70%, hsla(0, 0%, 85%, 1) 77%, hsla(0, 0%, 100%, 1) 100%);
+  filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#FFFFFF", endColorstr="#D6D6D6", GradientType=1 );
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.bluebutton { background-color: #008CBA; } /* blue standard button */
+.redbutton { background-color: #f44336; } /* red standard button */
+.graybutton { background-color: #e7e7e7; color: black; } /* gray standard button */
+.blackbutton { background-color: #555555; } /* black standard button */
+.greenbutton { background-color: #4CAF50; } /* green standard button */
+.orangebutton { background-color: #FF9800; } /* orange standard button */
+.pinkbutton { background-color: #E91E63; } /* pink standard button */
+.purplebutton { background-color: #9C27B0; } /* purple standard button */
+.yellowbutton { background-color: #FFEB3B; color: black; } /* yellow standard button */
+.whitebutton { background-color: #ffffff; color: black; } /* white standard button */
+.tealbutton { background-color: #009688; } /* teal standard button */
+.indigobutton { background-color: #3F51B5; } /* indigo standard button */
+.brownbutton { background-color: #795548; } /* brown standard button */
+.cyanbutton { background-color: #00BCD4; } /* cyan standard button */
+.limebutton { background-color: #CDDC39; } /* lime standard button */
+.amberbutton { background-color: #FFC107; } /* amber standard button */
+.deeporangebutton { background-color: #FF5722; } /* deep orange standard button */
+.lightgreenbutton { background-color: #8BC34A; } /* light green standard button */
+.lightbluebutton { background-color: #03A9F4; } /* light blue standard button */
+.bluegreybutton { background-color: #607D8B; } /* blue grey standard button */
+.sandbutton { background-color: #F4C300; color: black; } /* sand standard button */
+.charcoalbutton { background-color: #333333; } /* charcoal standard button */
+.skybluebutton { background-color: #87CEEB; } /* sky blue standard button */
+.violetbutton { background-color: #8A2BE2; } /* violet standard button */
+.goldbutton { background-color: #FFD700; } /* gold standard button */
+.salmonbutton { background-color: #FA8072; } /* salmon standard button */
+.rosybrownbutton { background-color: #BC8F8F; } /* rosy brown standard button */
+.seafoamgreenbutton { background-color: #2E8B57; } /* sea foam green standard button */
+.mintgreenbutton { background-color: #98FF98; } /* mint green standard button */
+.maroonbutton { background-color: #800000; } /* maroon standard button */
+.fuchsiabutton { background-color: #FF00FF; } /* fuchsia standard button */
+.coralbutton { background-color: #FF7F50; } /* coral standard button */
+.peachpuffbutton { background-color: #FFDAB9; } /* peach puff standard button */
+.silverbutton { background-color: #C0C0C0; } /* silver standard button */
+.darkvioletbutton { background-color: #9400D3; } /* dark violet standard button */
+.midnightbluebutton { background-color: #191970; } /* midnight blue standard button */
+.crimsonbutton { background-color: #DC143C; } /* crimson standard button */
+.slatebluebutton { background-color: #6A5ACD; } /* slate blue standard button */
+.darkseagreenbutton { background-color: #8FBC8F; } /* dark sea green standard button */
+.darkslategraybutton { background-color: #2F4F4F; } /* dark slate gray standard button */
+.tealgreenbutton { background-color: #006747; } /* teal green standard button */
+.periwinklebutton { background-color: #CCCCFF; } /* periwinkle standard button */
+.mauvebutton { background-color: #E0B0FF; } /* mauve standard button */
+.turquoisebutton { background-color: #40E0D0; } /* turquoise standard button */
+.rubyredbutton { background-color: #9B111E; } /* ruby red standard button */
+.ochrebutton { background-color: #CC7722; } /* ochre standard button */
+.slategraybutton { background-color: #708090; } /* slate gray standard button */
+.snowbutton { background-color: #FFFAFA; } /* snow standard button */
+.seashellbutton { background-color: #FFF5EE; } /* seashell standard button */
+.dodgerbluebutton { background-color: #1E90FF; } /* dodger blue standard button */
+.navybutton { background-color: #000080; } /* navy standard button */
+.saddlebrownbutton { background-color: #8B4513; } /* saddle brown standard button */
+.forestgreenbutton { background-color: #228B22; } /* forest green standard button */
+.lightcoralbutton { background-color: #F08080; } /* light coral standard button */
+.floralwhitebutton { background-color: #FFFAF0; } /* floral white standard button */
+.royalbluebutton { background-color: #4169E1; } /* royal blue standard button */
+.mediumpurplebutton { background-color: #9370DB; } /* medium purple standard button */
+.orchidbutton { background-color: #DA70D6; } /* orchid standard button */
+.darksalmonbutton { background-color: #E9967A; } /* dark salmon standard button */
+.steelbluebutton { background-color: #4682B4; } /* steel blue standard button */
+.cadetbluebutton { background-color: #5F9EA0; } /* cadet blue standard button */
+.paleturquoisebutton { background-color: #AFEEEE; } /* pale turquoise standard button */
+.thistlebutton { background-color: #D8BFD8; } /* thistle standard button */
+.moccasinbutton { background-color: #FFE4B5; } /* moccasin standard button */
+.lightsteelbluebutton { background-color: #B0C4DE; } /* light steel blue standard button */
+.dimgreybutton { background-color: #696969; } /* dim grey standard button */
+.bisquebutton { background-color: #FFE4C4; } /* bisque standard button */
+.hotpinkbutton { background-color: #FF69B4; } /* hot pink standard button */
+.indianredbutton { background-color: #CD5C5C; } /* indian red standard button */
+.tomatobutton { background-color: #FF6347; } /* tomato standard button */
+.lavenderbutton { background-color: #E6E6FA; } /* lavender standard button */
+.papayawhipbutton { background-color: #FFEFD5; } /* papaya whip standard button */
+.khakibutton { background-color: #F0E68C; } /* khaki standard button */
+.lavenderblushbutton { background-color: #FFF0F5; } /* lavender blush standard button */
+.cornflowerbluebutton { background-color: #6495ED; } /* cornflower blue standard button */
+.mintcreambutton { background-color: #F5FFFA; } /* mint cream standard button */
+.chartreusebutton { background-color: #7FFF00; } /* chartreuse standard button */
+.burlywoodbutton { background-color: #DEB887; } /* burlywood standard button */
+.siennobutton { background-color: #A0522D; } /* sienna standard button */
+.forestgreenbutton { background-color: #228B22; } /* forest green standard button */
+.mediumslatebluebutton { background-color: #7B68EE; } /* medium slate blue standard button */
+.coralbutton { background-color: #FF7F50; } /* coral standard button */
+.pinkbutton { background-color: #FF1493; } /* deep pink standard button */
+.bluevioletbutton { background-color: #8A2BE2; } /* blue violet standard button */
+.orangeredbutton { background-color: #FF4500; } /* orange red standard button */
+.aquabutton { background-color: #7FFFD4; } /* aquamarine standard button */
+.darkgoldenrodbutton { background-color: #B8860B; } /* dark goldenrod standard button */
+.seagreenbutton { background-color: #2E8B57; } /* sea green standard button */
+.chocolatebutton { background-color: #D2691E; } /* chocolate standard button */
+.tanbutton { background-color: #D2B48C; } /* tan standard button */
+.deepskybluebutton { background-color: #00BFFF; } /* deep sky blue standard button */
+.peachbutton { background-color: #FFDAB9; } /* peach standard button */
+.saddlebrownbutton { background-color: #8B4513; } /* saddle brown standard button */
+.honeydewbutton { background-color: #F0FFF0; } /* honeydew standard button */
+.goldenrodbutton { background-color: #DAA520; } /* goldenrod standard button */
+.cornsilkbutton { background-color: #FFF8DC; } /* cornsilk standard button */
+.snowbutton { background-color: #FFFAFA; } /* snow standard button */
